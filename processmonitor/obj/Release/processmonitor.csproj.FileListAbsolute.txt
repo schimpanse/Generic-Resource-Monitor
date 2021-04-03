@@ -1,0 +1,15 @@
+C:\Users\finnw\Desktop\coding\__GUI__\processmonitor\processmonitor\obj\Release\App.g.cs
+C:\Users\finnw\Desktop\coding\__GUI__\processmonitor\processmonitor\obj\Release\processmonitor.csproj.GenerateResource.cache
+C:\Users\finnw\Desktop\coding\__GUI__\processmonitor\processmonitor\obj\Release\processmonitor.csproj.CoreCompileInputs.cache
+C:\Users\finnw\Desktop\coding\__GUI__\processmonitor\processmonitor\obj\Release\processmonitor.csprojAssemblyReference.cache
+C:\Users\finnw\Desktop\coding\__GUI__\processmonitor\processmonitor\bin\Release\GenericRM.exe.config
+C:\Users\finnw\Desktop\coding\__GUI__\processmonitor\processmonitor\bin\Release\GenericRM.exe
+C:\Users\finnw\Desktop\coding\__GUI__\processmonitor\processmonitor\bin\Release\GenericRM.pdb
+C:\Users\finnw\Desktop\coding\__GUI__\processmonitor\processmonitor\obj\Release\GenericRM_MarkupCompile.cache
+C:\Users\finnw\Desktop\coding\__GUI__\processmonitor\processmonitor\obj\Release\GenericRM_MarkupCompile.lref
+C:\Users\finnw\Desktop\coding\__GUI__\processmonitor\processmonitor\obj\Release\GenericRM.g.resources
+C:\Users\finnw\Desktop\coding\__GUI__\processmonitor\processmonitor\obj\Release\GenericRM.Properties.Resources.resources
+C:\Users\finnw\Desktop\coding\__GUI__\processmonitor\processmonitor\obj\Release\GenericRM.exe
+C:\Users\finnw\Desktop\coding\__GUI__\processmonitor\processmonitor\obj\Release\GenericRM.pdb
+C:\Users\finnw\Desktop\coding\__GUI__\processmonitor\processmonitor\obj\Release\MainWindow.g.cs
+C:\Users\finnw\Desktop\coding\__GUI__\processmonitor\processmonitor\obj\Release\MainWindow.baml
