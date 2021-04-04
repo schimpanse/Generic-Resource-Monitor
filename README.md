@@ -1,6 +1,8 @@
 # Generic Resource Monitor
 cool resource monitor for cool people
 
+put Settings.xml in the same folder as the executable.
+
 # Screenshots
 main ui:
 
