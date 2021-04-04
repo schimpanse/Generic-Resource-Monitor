@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- To see examples of colours, see 'allcolours.png' -->
+<Settings>
+
+	<!-- Appearance -->
+	<CPUColour>Yellow</CPUColour>
+	<RAMColour>DarkTurquoise</RAMColour>
+	<PanelColour>Black</PanelColour>
+	<BackgroundColour>#181818</BackgroundColour>
+	<MainTextColour>#656565</MainTextColour>
+	<NetTextColour>Gray</NetTextColour>
+	
+	<BackgroundOpacity>0.5</BackgroundOpacity>
+	<PanelOpacity>0.5</PanelOpacity>
+	
+	<!-- Other -->
+	<RefreshRate>1200</RefreshRate> <!-- Time in ms. -->
+	
+</Settings>
